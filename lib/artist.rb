@@ -7,6 +7,5 @@ class Artist
     @name=name
     @@artists << self
   end
-
-
+  
 end
