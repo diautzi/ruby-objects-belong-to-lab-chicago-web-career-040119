@@ -3,7 +3,7 @@ class Author
   @@authors = []
 
   def initialize
-    @athor=name
+    @athor = name
     @@authors << self
   end
   
