@@ -6,4 +6,5 @@ class Author
     @athor=name
     @@authors << self
   end
+  
 end
